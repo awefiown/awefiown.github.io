@@ -1,4 +1,5 @@
 ---
+layout: post
 title: i am that i am
 subtitle: man and the 3 stages of consciousness   
 **Season of Gemini (May 21 - June 21)**
