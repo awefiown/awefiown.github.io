@@ -12,11 +12,11 @@ author: Ashley Roberts
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "About"
+  Links For the Bored:
+    - Browse European Painters: "https://www.wga.hu/index1.html"
+    - Duads in Astrology: "https://aliceportman.com/category/the-duad-system/"
+  Behind the Scenes: "https://github.com/awefiown"
 
 # --- Logo --- #
 
