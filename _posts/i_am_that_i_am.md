@@ -1,9 +1,11 @@
 ---
 layout: post
 title: i am that i am
-subtitle: man and the 3 stages of consciousness   
-**Season of Gemini (May 21 - June 21)**
----  
+subtitle: man and the 3 stages of consciousness
+cover-img: /assets/img/path.jpg
+tags: [man, consciousness, intellect, Season of Gemini]
+---
+
 
 Man is that being in whom highest spirit and lowest matter are linked together by a special intelligence. We can envision him as a living peak for the three wavelengths of evolution to converge: spirit, matter, and the linking intellect. Man is the one who unifies the self, the not-self, and the relation between them; and he is seen to be all at once: the knower, that which is known, and knowledge. 
 
