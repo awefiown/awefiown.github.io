@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: about
-
+subtitle:
 ---
 
 
