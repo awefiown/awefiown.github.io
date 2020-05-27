@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: "i am that i am"
+subtitle: an abstract on man and consciousness
 tags: [season of gemini, intellect, consciousness, man, test]
 ---
 
