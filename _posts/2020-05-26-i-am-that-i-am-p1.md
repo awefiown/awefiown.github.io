@@ -2,7 +2,6 @@
 layout: post
 comments: true
 title: "i am that i am"
-image: assets/img/ashmatic.jpg
 tags: [season of gemini, intellect, consciousness, man, test]
 ---
 
