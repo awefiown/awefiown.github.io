@@ -28,7 +28,7 @@ navbar-links:
 avatar: "assets/img/ashmatic.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -192,7 +192,7 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
-      show-avatar: true
+      show-avatar: false
 
 # Exclude these files from production site
 exclude:
