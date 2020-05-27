@@ -1,9 +1,8 @@
 ---
 layout: post
 title: about
-gh-repo: daattali/beautiful-jekyll
-tags: [about, interests]
-comments: true
+subtitle:
+
 ---
 
 
