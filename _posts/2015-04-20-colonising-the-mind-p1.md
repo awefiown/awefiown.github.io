@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: colonising the mind
+title: Colonising the Mind
 subtitle: an essay on hegelian consciousness
 tags: [season of taurus, master-slave dialectic, consciousness, reality, the other, hegel, university writing] 
 ---
