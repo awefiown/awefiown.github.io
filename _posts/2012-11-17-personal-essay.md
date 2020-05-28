@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: personal essay
+title: Personal Statement
 subtitle: essay written at the age of 17 to gain entry into college
 tags: [season of scorpio, personal essay, high school writing] 
 ---
