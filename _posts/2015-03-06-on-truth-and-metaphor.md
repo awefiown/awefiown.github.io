@@ -3,12 +3,12 @@ layout: post
 comments: true
 title: on truth and metaphor
 subtitle: an essay on nietzsche's use of metaphor
-tags: [season of pisces, university writing] 
+tags: [season of pisces, nietzsche, metaphor, truth,  university writing] 
 ---
 
 When we utilise metaphor, we take two distinctly unrelated objects, and transfer qualities from one to the other. In early Nietzsche, metaphor is especially tied to the general notion of truth. This is not because truth is arrived at by means of metaphor, e.g., when Shakespeare pines that his lover is a hot summer’s day, the reader concludes that the truth of matter must be that the lover is a source of warmth to Shakespeare. Rather, for Nietzsche, there is no truth of the matter:  there is only metaphor, dangerously reclassified as truth.  
 
-This argument is not as far-fetched as it appears prima facie. It is not too radical to conceive of our most basic ideas are constructed of various layers of metaphor. Consider, for example, the process of designation in language. Nietzsche distinguishes between two separate planes of metaphor.  
+This argument is not as far-fetched as it appears prima facie. It is not too radical to conceive of our most basic ideas are constructed of various layers of metaphor. Consider, for example, the process of designation in language. Nietzsche distinguishes between two separate planes of metaphor.    
 The first metaphor:   
  - *“A nerve stimulus transformed into an image — the first metaphor!” (TL. 256).* 
 Suppose John looks off into the shadowy distance and sees a tree. The process by which the brain translates the information received by the optic system is not the tree-in-itself, but the process does allow John to comprehend the experience of viewing the tree, or to conceive of the tree. It facilitates the contemplation of an imprecise impression of a tree-in-itself. There is simply no other humanly possible way to intake and process information. John cannot literally implant the tree-in-itself into his brain, and so, all he has is an interpretation of a tree-in-itself. This is the first metaphor; an object being reduced into an idea.   
@@ -26,4 +26,4 @@ This spider web imagery later described is central to the structure of Nietzsche
 
 Perhaps it may help to think of the ‘holes’ within the structure of the web acting as a filter, allowing for man to sift away that which stands in opposition to his constructs. Nietzsche believes man acts in this fashion because “men do not flee from being deceived as much as from being damaged by deception: what they hate at this stage is basically not the deception but the bad, hostile consequences of certain kinds of deceptions” (TL. 256). In other words, Nietzsche does not believe that man particularly cares about being deceived—he only cares about being hurt by the shatters of his illusions.   
 
-This in turn explains why man holds onto metaphors and reclassifies them as ‘truth.’ Over time, there emerges, according to Nietzsche in On Truth and Lying, an all-too human tendency to cast aside the awareness of metaphor as metaphor, and replace it instead with what we desire to be a ‘truth’ — a power he dubs “dissimulation [reaching] its peak [in ]man: deception” (254).  Our greatest deception, then, according to Nietzsche, is forgetting that metaphors are only metaphors. Too often we try to assure ourselves the metaphors we weave together out of our own selves are not constructs at all, but well-founded homes in which we can comfortably dwell.  
+This in turn explains why man holds onto metaphors and reclassifies them as ‘truth.’ Over time, there emerges, according to Nietzsche in *On Truth and Lying*, an all-too human tendency to cast aside the awareness of metaphor as metaphor, and replace it instead with what we desire to be a ‘truth’ — a power he dubs “dissimulation [reaching] its peak [in ]man: deception” (254).  Our greatest deception, then, according to Nietzsche, is forgetting that metaphors are only metaphors. Too often we try to assure ourselves the metaphors we weave together out of our own selves are not constructs at all, but well-founded homes in which we can comfortably dwell.  
