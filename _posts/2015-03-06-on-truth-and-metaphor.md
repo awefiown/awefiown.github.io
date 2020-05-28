@@ -1,9 +1,9 @@
 ---
 layout: post
 comments: true
-title: on truth and metaphor
+title: On Truth and Metaphor
 subtitle: an essay on nietzsche's use of metaphor
-tags: [season of pisces, nietzsche, metaphor, truth,  university writing] 
+tags: [season of pisces, nietzsche, metaphor, truth, lying,   university writing] 
 ---
 
 When we utilise metaphor, we take two distinctly unrelated objects, and transfer qualities from one to the other. In early Nietzsche, metaphor is especially tied to the general notion of truth. This is not because truth is arrived at by means of metaphor, e.g., when Shakespeare pines that his lover is a hot summer’s day, the reader concludes that the truth of matter must be that the lover is a source of warmth to Shakespeare. Rather, for Nietzsche, there is no truth of the matter:  there is only metaphor, dangerously reclassified as truth.  
