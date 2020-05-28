@@ -4,8 +4,9 @@ title: about
 subtitle: 
 ---    
 
-Of the three gorgon sisters only Medusa is said to be mortal. Guarding the doorway to the world of the dead, she prevents the living from entering.  
-![m2](assets/img/m2.jpg)    
+ 
+![m2](assets/img/m2.jpg){: .mx-auto.d-block :}      
+*Of the three gorgon sisters only Medusa is said to be mortal. Guarding the doorway to the world of the dead, she prevents the living from entering.* 
 
 ### my interests 
 - [Violin](https://www.youtube.com/watch?v=IDcuiZznRVM)  
