@@ -9,12 +9,13 @@ tags: [season of pisces, nietzsche, metaphor, truth,  university writing]
 When we utilise metaphor, we take two distinctly unrelated objects, and transfer qualities from one to the other. In early Nietzsche, metaphor is especially tied to the general notion of truth. This is not because truth is arrived at by means of metaphor, e.g., when Shakespeare pines that his lover is a hot summer’s day, the reader concludes that the truth of matter must be that the lover is a source of warmth to Shakespeare. Rather, for Nietzsche, there is no truth of the matter:  there is only metaphor, dangerously reclassified as truth.  
 
 This argument is not as far-fetched as it appears prima facie. It is not too radical to conceive of our most basic ideas are constructed of various layers of metaphor. Consider, for example, the process of designation in language. Nietzsche distinguishes between two separate planes of metaphor.    
+
 The first metaphor:   
  - *“A nerve stimulus transformed into an image — the first metaphor!” (TL. 256).* 
 Suppose John looks off into the shadowy distance and sees a tree. The process by which the brain translates the information received by the optic system is not the tree-in-itself, but the process does allow John to comprehend the experience of viewing the tree, or to conceive of the tree. It facilitates the contemplation of an imprecise impression of a tree-in-itself. There is simply no other humanly possible way to intake and process information. John cannot literally implant the tree-in-itself into his brain, and so, all he has is an interpretation of a tree-in-itself. This is the first metaphor; an object being reduced into an idea.   
 
 The second metaphor:  
- - *“The image then reproduced in a sound — the second metaphor!” (TL. 256). * 
+ - *“The image then reproduced in a sound — the second metaphor!” (TL. 256).* 
 The literal combination of letters and sounds John uses to represent the word ‘tree’ is inherently arbitrary. T-R-E-E does not designate the tree-in-itself, but rather, denotes the imprecise impression John has of the tree-in-itself. This makes it almost a metaphor for the first metaphor noted above. Nietzsche further details this by saying that “we believe that we know something about the things themselves when we talk about trees, colours, snow and flowers, and yet we possess nothing but metaphors for things which do not correspond in the slightest to the original entities” (TL. 256). The words themselves are inherently meaningless; however, they retain a certain value, as it is a combination of words, of metaphors, that allows us to grasp at what we wish to be the truth.   
 
 These two described metaphors are actually layered on top of each other, as the foundation for the constructs we build as we experience the world. All of our experiences, all of our notions of truth, are simply further layerings of metaphor.  
