@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Best Word in English
 subtitle: a small observation
-tags: [season of aries, high school writing] 
+tags: [season of taurus, high school writing] 
 ---
 
 *Synaesthesia* is a neurological condition in which stimulation of one sensory or cognitive
