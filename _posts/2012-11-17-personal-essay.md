@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Personal Statement
-subtitle: essay written at the age of 17 to gain entry into college
+subtitle: essay written at the age of 17 to gain college entry
 tags: [season of scorpio, personal essay, high school writing] 
 ---
  ***Author’s Note: All phrases in bold come from Oscar Wilde’s The Picture of Dorian Gray*** 
