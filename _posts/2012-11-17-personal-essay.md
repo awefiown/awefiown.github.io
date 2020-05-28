@@ -2,11 +2,10 @@
 layout: post
 comments: true
 title: personal essay
-subtitle: written at the age of 17 for college entrance
-tags: [season of scorpio, personal essay, test] 
+subtitle: essay written at the age of 17 to gain entry into college
+tags: [season of scorpio, personal essay, high school writing] 
 ---
- ***Author’s Note: All phrases in bold come from  
- Oscar Wilde’s *The Picture of Dorian Gray**** 
+ ***Author’s Note: All phrases in bold come from Oscar Wilde’s The Picture of Dorian Gray*** 
 
 ***I represent to you all the sins you never had the courage to commit; all the great heroines of the world in one.*** I have been shaped by each of the dead who have influenced me with their writings—imprinting onto the world an essence. And as ***to influence a person is to give him one’s own soul***, so I have given away bits of myself.   
 
