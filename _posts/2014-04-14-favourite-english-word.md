@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: favourite english word
+title: Best Word in English
 subtitle: a small observation
 tags: [season of aries, high school writing] 
 ---
