@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Colonising the Mind
-subtitle: an essay on hegelian consciousness
+subtitle: a literary essay on hegelian consciousness
 tags: [season of aries, master-slave dialectic, consciousness, reality, the other, hegel, university writing] 
 ---
 You can write 'I have a brain,' yet you cannot say whether 'I' IS your brain or is somehow IN your brain or even caused BY your brain. Although your education has taught you the correct manner of forming sentences, your ability to comprehend the product of your action is lacking. An intricate network of muscles allows your hand to write 'I am real'; but to wholly contemplate the implications of such a statement -- or whether you can even accurately claim such a thing -- demands more. Somehow a physical organ composed of neurons and chemicals produces the intangible state of what scientists refer to as your consciousness.  
