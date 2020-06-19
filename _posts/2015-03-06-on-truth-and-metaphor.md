@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: On Truth and Metaphor
-subtitle: an essay on nietzsche's use of metaphor
+subtitle: a philosophical essay of nietzsche's use of metaphor
 tags: [season of pisces, nietzsche, metaphor, truth, lying,   university writing] 
 ---
 
